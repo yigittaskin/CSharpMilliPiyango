@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\C# Projeler\MilliPiyango\MilliPiyango\bin\Debug\MilliPiyango.exe.config
+C:\Users\pc\Desktop\C# Projeler\MilliPiyango\MilliPiyango\bin\Debug\MilliPiyango.exe
+C:\Users\pc\Desktop\C# Projeler\MilliPiyango\MilliPiyango\bin\Debug\MilliPiyango.pdb
+C:\Users\pc\Desktop\C# Projeler\MilliPiyango\MilliPiyango\obj\Debug\MilliPiyango.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\C# Projeler\MilliPiyango\MilliPiyango\obj\Debug\MilliPiyango.Form1.resources
+C:\Users\pc\Desktop\C# Projeler\MilliPiyango\MilliPiyango\obj\Debug\MilliPiyango.Properties.Resources.resources
+C:\Users\pc\Desktop\C# Projeler\MilliPiyango\MilliPiyango\obj\Debug\MilliPiyango.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\C# Projeler\MilliPiyango\MilliPiyango\obj\Debug\MilliPiyango.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C# Projeler\MilliPiyango\MilliPiyango\obj\Debug\MilliPiyango.exe
+C:\Users\pc\Desktop\C# Projeler\MilliPiyango\MilliPiyango\obj\Debug\MilliPiyango.pdb
